@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
             {
                 Toast.makeText(MainActivity.this, "lol still in the first method", Toast.LENGTH_LONG);
 
+
+
+//
             }
         });
 //        super.onCreate(savedInstanceState);
